@@ -8,7 +8,7 @@ function App() {
     <>
       <Header title="Form" />
       <Form />
-      {/* <Footer/> */}
+      <Footer/>
     </>
   );
 }
